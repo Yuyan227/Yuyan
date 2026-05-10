@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Area
+  - Enemy
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3301570679
+    locked: 0
+  - name: Walkinfront
+    uniqueID: 2129075725
+    locked: 0
+  - name: Collision
+    uniqueID: 2246042797
+    locked: 0
+  - name: Player
+    uniqueID: 4009418635
+    locked: 0
